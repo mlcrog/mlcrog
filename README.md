@@ -28,6 +28,8 @@
 
 ###
 
-![mlcrog's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mlcrog&theme=nightowl&hide_border=trueheight="22)
+<div align="center">
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=mlcrog&theme=nightowl&hide_border=trueheight="22"/>
+</div>
 
-###
+
