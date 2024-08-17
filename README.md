@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">▸📍 São Paulo, Brazil <br>▸📚 Student of Computer Science<br>
+<p align="left">▸📍 São Paulo, Brazil <br>▸📚 Student of Computer Science and Big Data<br>
 
 <!--###-->
 
